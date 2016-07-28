@@ -105,10 +105,6 @@ void runLedBlink(int ledPin) {
     blinkTime = 0;
   }
 
-  // } else {
-  //
-  //  }
-  // digitalWrite(ledPin, HIGH);
 }
 
 void ledOn(int ledPin) {
